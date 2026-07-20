@@ -1,14 +1,15 @@
 # PRACTICAL-3
 
-Lab No. 3: Implement a Feedforward Neural Network using TensorFlow or PyTorch
-Aim
+#Lab No. 3: Implement a Feedforward Neural Network using TensorFlow or PyTorch
+
+#Aim
 To implement a Feedforward Neural Network (FNN) using PyTorch and TensorFlow (Keras) to perform binary classification on the AND logic gate dataset.
 
-Theory
+#Theory
 A Feedforward Neural Network (FNN) is the simplest type of Artificial Neural Network in which information flows in only one direction—from the input layer to the output layer. There are no loops or feedback connections. The network learns by adjusting its weights using the backpropagation algorithm and an optimization algorithm such as Adam.
 In this experiment, the AND gate dataset is used for binary classification. The network predicts whether the output should be 0 or 1 based on the two binary inputs.
 
-Algorithm
+#Algorithm
 Import the required libraries.
 Create the AND gate dataset.
 Design a Feedforward Neural Network with input, hidden, and output layers.
